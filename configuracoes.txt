@@ -1,0 +1,3 @@
+instalação do parcel
+
+npm i --save-dev parcel
