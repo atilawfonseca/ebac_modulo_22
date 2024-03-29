@@ -1,3 +1,6 @@
 instalação do parcel
 
 npm i --save-dev parcel
+
+para configurar a compressão das imagens precisa configurar um json
+no nosso caso foi configurado em sharp.config.json
