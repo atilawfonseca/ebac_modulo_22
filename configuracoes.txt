@@ -4,3 +4,6 @@ npm i --save-dev parcel
 
 para configurar a compressão das imagens precisa configurar um json
 no nosso caso foi configurado em sharp.config.json
+
+link figma:
+https://www.figma.com/file/wRVpL5wgA43WTPziQNy4Th/EBAC-TECH-TALKS?type=design&node-id=0-1&mode=design
