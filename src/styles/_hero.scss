@@ -1,3 +1,4 @@
+@use 'variables';
 .hero {
     padding-top: 100px;
     padding-bottom: 64px;
@@ -13,7 +14,7 @@
     &::before {
         top: 0px;
         left: 0px;
-        background-color: black;
+        background-color: variables.$textColor_secundario;
         height: 100%;
         width: 100%;
         position: absolute;
@@ -32,7 +33,7 @@
     &__text {
         margin-top: 64px;
         margin-bottom: 64px;
-        color: white;
+        color: variables.$textColor_secundario;
         line-height: 56px;
         font-weight: 800;
         text-align: center;
